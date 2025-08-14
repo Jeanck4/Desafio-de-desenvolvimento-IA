@@ -1,0 +1,70 @@
+Positiva: Este produto é excelente e superou todas as minhas expectativas
+Positiva: Atendimento maravilhoso, equipe muito educada e prestativa
+Positiva: Qualidade excepcional, material resistente e bem acabado
+Positiva: Entrega rápida e produto chegou em perfeito estado
+Positiva: Recomendo muito, vale cada centavo investido
+Positiva: Adorei a compra, produto exatamente como anunciado
+Positiva: Serviço impecável, voltarei a comprar com certeza
+Positiva: Fantástico, melhor produto que já comprei nesta categoria
+Positiva: Equipe muito competente e solução rápida do problema
+Positiva: Produto de alta qualidade, construção sólida e durável
+Positiva: Experiência incrível, superou todas as expectativas
+Positiva: Muito satisfeito com o resultado, produto funciona perfeitamente
+Positiva: Excelente custo-benefício, preço justo pela qualidade oferecida
+Positiva: Atendimento nota 10, muito profissional e atencioso
+Positiva: Produto chegou antes do prazo e bem embalado
+Positiva: Qualidade superior, materiais nobres e acabamento perfeito
+Positiva: Muito feliz com a aquisição, produto cumpre o que promete
+Positiva: Empresa séria e confiável, recomendo de olhos fechados
+Positiva: Produto inovador e funcional, design moderno e elegante
+Positiva: Suporte técnico excelente, resolveram meu problema rapidamente
+Positiva: Melhor investimento que fiz este ano, estou muito contente
+Positiva: Produto durável e resistente, já uso há meses sem problemas
+Positiva: Interface intuitiva e fácil de usar, muito bem desenvolvido
+Positiva: Empresa comprometida com a qualidade e satisfação do cliente
+Positiva: Resultado acima das expectativas, produto realmente eficiente
+Negativa: Produto de péssima qualidade, quebrou no primeiro uso
+Negativa: Atendimento terrível, funcionários mal educados e despreparados
+Negativa: Material frágil e mal acabado, não vale o preço pago
+Negativa: Entrega atrasada e produto danificado na embalagem
+Negativa: Não recomendo, experiência frustrante e decepcionante
+Negativa: Compra foi um erro, produto não funciona adequadamente
+Negativa: Serviço horrível, nunca mais compro nesta empresa
+Negativa: Produto enganoso, não corresponde à descrição do anúncio
+Negativa: Equipe incompetente, não souberam resolver problema simples
+Negativa: Qualidade duvidosa, materiais baratos e mal montados
+Negativa: Experiência desastrosa, problemas desde o primeiro contato
+Negativa: Muito insatisfeito, produto apresentou defeitos logo no início
+Negativa: Péssimo custo-benefício, preço alto para qualidade baixa
+Negativa: Atendimento nota zero, total falta de profissionalismo
+Negativa: Produto chegou com atraso e fora das especificações
+Negativa: Qualidade inferior, acabamento grosseiro e mal feito
+Negativa: Arrependido da compra, produto não atende às necessidades
+Negativa: Empresa não confiável, não cumprem o que prometem
+Negativa: Produto obsoleto e mal projetado, design ultrapassado
+Negativa: Suporte técnico inexistente, não respondem às solicitações
+Negativa: Pior compra da minha vida, total desperdício de dinheiro
+Negativa: Produto frágil demais, não suporta uso normal do dia a dia
+Negativa: Interface confusa e difícil de usar, mal desenvolvida
+Negativa: Empresa descompromissada, não se importa com o cliente
+Negativa: Resultado abaixo das expectativas, produto ineficiente
+Positiva: Produto impressionante, funcionalidades além do esperado
+Positiva: Atendimento cordial e eficiente, resolveram tudo rapidamente
+Positiva: Material de primeira qualidade, resistente e bem construído
+Positiva: Entrega no prazo combinado, embalagem impecável
+Positiva: Altamente recomendável, produto cumpre todas as promessas
+Positiva: Compra certeira, produto funciona exatamente como esperado
+Positiva: Serviço de qualidade, profissionais capacitados e atenciosos
+Positiva: Produto surpreendente, tecnologia avançada e confiável
+Positiva: Equipe preparada e conhecedora, tiraram todas as dúvidas
+Positiva: Excelente investimento, produto durável e eficiente
+Negativa: Produto defeituoso desde a primeira utilização
+Negativa: Atendimento desrespeitoso, tratam mal os clientes
+Negativa: Material de quinta categoria, qualidade sofrível
+Negativa: Logística péssima, produto chegou com muito atraso
+Negativa: Experiência negativa, não compraria novamente
+Negativa: Produto falha constantemente, não é confiável para uso
+Negativa: Empresa sem credibilidade, não honram os compromissos
+Negativa: Design antiquado e funcionalidade limitada
+Negativa: Suporte ao cliente inexistente, deixam na mão
+Negativa: Investimento mal feito, produto não vale o dinheiro gasto
