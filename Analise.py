@@ -141,7 +141,8 @@ if __name__ == "__main__":
         "Este produto e excelente",
         "Pessimo atendimento",
         "Muito satisfeito",
-        "Nao recomendo"
+        "Nao recomendo",
+        "Isso não vai"
     ]
     
     for exemplo in exemplos:
